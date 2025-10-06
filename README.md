@@ -78,6 +78,8 @@ All tasks are documented with screenshots showing:
 Host: localhost
 
 Port: 1521
+
 PDB: ci_pdb_27120
+
 User: cindy_plsqlauca_27120
 
