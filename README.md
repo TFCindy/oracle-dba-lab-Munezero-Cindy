@@ -32,26 +32,30 @@ oracle-dba-lab/
 - Created PDB: `ci_pdb_27120`
 - Created User: `cindy_plsqlauca_27120`
 - Configured tablespaces and privileges
--/Users/cindymunezero/Desktop/oracle-dba-lab-Munezero-Cindy/Screenshots/First_pdb.png
-Caption: Successful creation of ci_pdb_27120 using CREATE PLUGGABLE DATABASE command
+
+![PDB Creation](Screenshots/First_pdb.png)
+*Caption: Successful creation of ci_pdb_27120 using CREATE PLUGGABLE DATABASE command*
 
 ### Task 2: PDB Lifecycle Management
 - Created temporary PDB: `ci_to_delete_pdb_27120`
 - Demonstrated complete deletion with datafiles
--/Users/cindymunezero/Desktop/oracle-dba-lab-Munezero-Cindy/Screenshots/Second_pdb.png
-Caption: Creation of ci_to_delete_pdb_27120 for deletion demonstration
 
--/Users/cindymunezero/Desktop/oracle-dba-lab-Munezero-Cindy/Screenshots/pdb2_deleted.png
-Caption: Successful deletion using DROP PLUGGABLE DATABASE INCLUDING DATAFILES
+![Temporary PDB Creation](Screenshots/Second_pdb.png)
+*Caption: Creation of ci_to_delete_pdb_27120 for deletion demonstration*
+
+![PDB Deletion](Screenshots/pdb2_deleted.png)
+*Caption: Successful deletion using DROP PLUGGABLE DATABASE INCLUDING DATAFILES*
 
 ### Task 3: OEM Configuration
 - Configured HTTP/HTTPS ports (8080/8443)
 - Accessed Oracle Enterprise Manager dashboard
 - Verified user authentication
--/Users/cindymunezero/Desktop/oracle-dba-lab-Munezero-Cindy/Screenshots/OEM_dashboard.png
-Caption: Setting HTTP port to 8080 and HTTPS port to 8443 using DBMS_XDB_CONFIG
 
-/Users/cindymunezero/Desktop/oracle-dba-lab-Munezero-Cindy/Screenshots/username.png
+![OEM Configuration](Screenshots/OEM_dashboard.png)
+*Caption: Setting HTTP port to 8080 and HTTPS port to 8443 using DBMS_XDB_CONFIG*
+
+![Username Verification](Screenshots/username.png)
+*Caption: OEM dashboard showing username cindy_plsqlauca_27120*
 
 ## 📸 Evidence
 All tasks are documented with screenshots showing:
