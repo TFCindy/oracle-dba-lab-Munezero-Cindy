@@ -52,10 +52,9 @@ oracle-dba-lab/
 - Verified user authentication
 
 ![OEM Configuration](Screenshots/OEM_dashboard.png)
-*Caption: Setting HTTP port to 8080 and HTTPS port to 8443 using DBMS_XDB_CONFIG*
+*Caption: OEM dashboard with pdb ci_pdb_27120*
 
 ![Username Verification](Screenshots/username.png)
-*Caption: OEM dashboard showing username cindy_plsqlauca_27120*
 
 ## 📸 Evidence
 All tasks are documented with screenshots showing:
