@@ -76,7 +76,8 @@ All tasks are documented with screenshots showing:
 
 ## 🔗 Connection Details
 Host: localhost
+
 Port: 1521
 PDB: ci_pdb_27120
 User: cindy_plsqlauca_27120
-guide me on how to push my screenshots folder to my git, using mac terminalrepo name:oracle-dba-lab-Munezero-Cindy,the readme is already there,what i want is just to push the screenshots folder plz.
+
